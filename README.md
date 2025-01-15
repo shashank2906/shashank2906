@@ -4,19 +4,20 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently at the development phase as a software enthusiast.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronics, computer programming and Mathematics.
-- 💼 &nbsp; Aspiring Software Engineer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
-- ☕ &nbsp; I belive, a quick fun break could be the ultimate solution for any problem.
+- 🔭 &nbsp; Currently working as an Azure Data Engineer, building scalable data pipelines and solutions.
+- 🤔 &nbsp; Exploring new technologies in data engineering, cloud computing, and advanced analytics.
+- 🎓 &nbsp; Leveraging knowledge in cloud platforms, big data processing, and data warehousing.
+- 💼 &nbsp; Passionate about turning raw data into actionable insights.
+- 🌱 &nbsp; Enthusiast in Big Data, Machine Learning, and Data Analytics.
+- ☕ &nbsp; I believe a quick coffee break sparks the best ideas for complex problems.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | C++ | Python | Sql
-- 🌐 &nbsp; Web development | React | Node-Js | Html | CSS  
-- 🛢 &nbsp; MySql | MongoDB 
-- 🔧 &nbsp; Visual Studio code | Git 
+- 💻 &nbsp; Python | SQL | PySpark | Azure Data Factory
+- 🌐 &nbsp; Data Visualization: Power BI | Tableau
+- 🛢 &nbsp; Databases: Azure SQL Database | Azure Synapse | Cosmos DB
+- 🔧 &nbsp; Cloud Platforms: Microsoft Azure | AWS (Certified Cloud Practitioner | Certified Data-Engineer)
+- 🌱 &nbsp; Tools: Azure Data Studio | Git | Jupyter Notebooks | Databricks
 
 <br>
 
