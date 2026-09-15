@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🛡️ &nbsp; Currently working as a **Backup & Cloud Infrastructure Engineer**, protecting enterprise workloads and building toward **Cyber Resilience**.
+- 🛡️ &nbsp; Currently working as a **Cloud Infrastructure Engineer**, protecting enterprise workloads and building toward **Cyber Resilience**.
 - ☁️ &nbsp; Growing into **Cloud & DevOps** — Azure infrastructure, automation, and CI/CD, backed by real production DR experience.
 - 🧬 &nbsp; DR isn't just a checkbox for me — I've lived through failovers, replications, and recovery drills that had to actually work.
 - 🔐 &nbsp; Obsessed with the idea that **"resilient" and "secure" should describe the same system**, not two separate ones.
