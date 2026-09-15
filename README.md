@@ -29,8 +29,6 @@
 <img alt="VMware" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/VMware%20-%23607078.svg?&style=for-the-badge&logo=vmware&logoColor=white"/>
 <img alt="Linux" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
 
-<br><br><br>
-
 **🛡️ Backup, DR & Cyber Resilience**
 <br>
 <img alt="Dell EMC" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Dell%20EMC%20NetWorker-%230072C6.svg?&style=for-the-badge&logo=dell&logoColor=white"/>
@@ -38,8 +36,6 @@
 <img alt="Data Domain" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Data%20Domain%20CRA-%23404040.svg?&style=for-the-badge"/>
 <img alt="Commvault" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Commvault%20-%23E01E5A.svg?&style=for-the-badge"/>
 <img alt="Avamar" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Avamar%20-%230078D4.svg?&style=for-the-badge"/>
-
-<br><br><br>
 
 **⚙️ DevOps & Automation**
 <br>
@@ -50,15 +46,11 @@
 <img alt="GitHub" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="ServiceNow" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/ServiceNow%20-%2381B5A1.svg?&style=for-the-badge&logo=servicenow&logoColor=white"/>
 
-<br><br><br>
-
 **📊 Data & Scripting**
 <br>
 <img alt="Python" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="SQL" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/SQL%20-%23CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img alt="Power BI" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Power%20BI%20-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<br><br>
 
 ### 🏆 Certifications
 - 🔹 ITIL V4 Foundations
@@ -69,7 +61,6 @@
 - 🔹 Azure AI Fundamentals (AI-900)
 - 🔹 Power BI Data Analyst (PL-300)
 
-<br>
 
 ### 🧩 What I Actually Do (Beyond the Buzzwords)
 - 🔄 Run and troubleshoot enterprise backup operations across NetWorker, Veeam, and Data Domain
